@@ -1,4 +1,4 @@
 {
   "python.pythonPath": "/home/hassan/.local/share/virtualenvs/djangocrm-hse0SH-a/bin/python",
-  "python.formatting.provider": "black"
+  "editor.formatOnSave":false,
 }
